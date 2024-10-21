@@ -1,13 +1,43 @@
+git init
+
+git add .
+
+criar readme
+
+git commit -m ""
+
+muda o arquivo
+
+git status
+
+git log
+
+git checkout numero
+
+git clone diretório
+
+npm init
+
+npm install express - -save
+
+node trabalho.js
+
+git add trabalho.js
+
+git commit -m ""
+
+git push
+
+
+
 NUVEM
 
 
 
 sudo su
 
-aws s3 cp s3://nodejsads/projeto1/ . --recursive
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh
-| bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 
 . ~/.nvm/nvm.sh
 
@@ -15,6 +45,25 @@ nvm install --lts
 
 node -v
 
+sudo yum install git -y
+
+git --version
+
+git clone https://github.com/valentimdev/nuvem-prova
+
+
+Navegue para o diretório onde está o trabalho.js
+
+ls
+
+cd nuvem-prova
+
+configure o projeto e suba a aplicação
+
+sudo su
+
+npm init
+
 npm install express --save
 
-node index.js
+node trabalho.js
